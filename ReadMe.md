@@ -12,7 +12,7 @@ Este projeto integra operações de negociação de Bitcoin utilizando a API da 
 
 Para utilizar este projeto, siga os passos abaixo:
 
-### 1. Clonando o Repositório
+### Clonando o Repositório
 
 Clone o repositório para sua máquina local utilizando o comando `git clone`. No terminal, execute:
 
